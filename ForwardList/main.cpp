@@ -1,4 +1,4 @@
-﻿#include <iostream>
+﻿﻿#include<iostream>
 using namespace std;
 using std::cin;
 using std::cout;
@@ -447,6 +447,5 @@ void main()
 	}
 	cout << endl;
 #endif // RANGE_BASED_FOR_LIST
-
 
 }
